@@ -18,5 +18,14 @@ public class Ejemplo04 {
         System.out.print(apellidoEstudiante + " ");
         System.out.print(nacimiento + " ");
         System.out.print(nombreEstudiante + " ");
+        // println() sirve para imprimir texto seguido de un espacio 
+        // print () srive para imprimir texto pero sin el espacio
+        
+        System.out.println("-----------------");
+        System.out.println(nombreEstudiante + " ");
+        System.out.println(apellidoEstudiante + " ");
+        System.out.println(nacimiento + " ");
+        System.out.println(nombreEstudiante + " ");
+        
     }
 }
